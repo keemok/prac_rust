@@ -1,2 +1,4 @@
-# prac_rust
-for rust
+# Practice language
+For Rust
+
+author : keemok
